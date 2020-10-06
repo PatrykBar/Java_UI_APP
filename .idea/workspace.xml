@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7bccc1d-25f8-4a94-9e5d-754e26a96e9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="240" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gvMQAMkCZG17poE7qZqAM47dQW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sqlite-jdbc-3.30.1.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Patryk.sample.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programowanie\PODYPLOMÓWKA\Bazy danych\Zjazd\src\Patryk\sample\fxmlFiles" />
+      <recent name="D:\Programowanie\PODYPLOMÓWKA\Bazy danych\Zjazd\src\Patryk\sample" />
+      <recent name="D:\Programowanie\PODYPLOMÓWKA\Bazy danych\Zjazd\src\Patryk\sample\model" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Patryk.sample.Main" />
+      <module name="Zjazd" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules=javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Patryk.sample.fxmlFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7bccc1d-25f8-4a94-9e5d-754e26a96e9e" name="Default Changelist" comment="" />
+      <created>1598990593828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598990593828</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600801099339">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="413" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600801099339" />
+    <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601492023705">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="716" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601492023705" />
+    <state x="1201" y="176" key="#com.intellij.ide.util.MemberChooser" timestamp="1600978326639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1201" y="176" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600978326639" />
+    <state x="467" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599073087977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="467" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599073087977" />
+    <state x="689" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599587620306">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599587620306" />
+    <state x="689" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600798225197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="274" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600798225197" />
+    <state x="665" y="261" key="FileChooserDialogImpl" timestamp="1601739958897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="261" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601739958897" />
+    <state width="1875" height="288" key="GridCell.Tab.0.bottom" timestamp="1601487559317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601487559317" />
+    <state width="1875" height="288" key="GridCell.Tab.0.center" timestamp="1601487559317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="288" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601487559317" />
+    <state width="1875" height="288" key="GridCell.Tab.0.left" timestamp="1601487559317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="288" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601487559317" />
+    <state width="1875" height="288" key="GridCell.Tab.0.right" timestamp="1601487559317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="288" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601487559317" />
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom" timestamp="1601409521363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601409521363" />
+    <state width="1875" height="347" key="GridCell.Tab.1.center" timestamp="1601409521362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601409521362" />
+    <state width="1875" height="347" key="GridCell.Tab.1.left" timestamp="1601409521362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601409521362" />
+    <state width="1875" height="347" key="GridCell.Tab.1.right" timestamp="1601409521362">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601409521362" />
+    <state x="439" y="94" key="SettingsEditor" timestamp="1601739974484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="94" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1601739974484" />
+    <state x="730" y="217" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1599073104119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="217" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599073104119" />
+    <state x="663" y="137" key="refactoring.ChangeSignatureDialog" timestamp="1600284734199">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="663" y="137" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1600284734199" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Zjazd$Main.ic" NAME="Main Coverage Results" MODIFIED="1601405643274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Patryk.sample.fxmlFiles.*</FILTER>
+    </SUITE>
+  </component>
+</project>

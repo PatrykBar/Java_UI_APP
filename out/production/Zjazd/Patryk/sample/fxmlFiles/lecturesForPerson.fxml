@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.cell.PropertyValueFactory?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TableColumn?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0"
+            fx:controller="Patryk.sample.fxmlFiles.lectureController" xmlns:fx="http://javafx.com/fxml">
+    <center>
+
+        <TableView fx:id="lecturesTable" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+
+            <columns>
+
+                <TableColumn prefWidth="${lecturesTable.prefWidth}" text="ID" >
+                    <cellValueFactory>
+                        <PropertyValueFactory property="ID"/>
+                    </cellValueFactory>
+                </TableColumn>
+
+                <TableColumn prefWidth="${lecturesTable.prefWidth}" text="Name of lecture" >
+                    <cellValueFactory>
+                        <PropertyValueFactory property="nameOfLecture"/>
+                    </cellValueFactory>
+                </TableColumn>
+
+                <TableColumn prefWidth="${lecturesTable.prefWidth}" text="Person ID" >
+                    <cellValueFactory>
+                        <PropertyValueFactory property="personID"/>
+                    </cellValueFactory>
+                </TableColumn>
+
+                <TableColumn prefWidth="${lecturesTable.prefWidth}" text="Summary" >
+                    <cellValueFactory>
+                        <PropertyValueFactory property="summary"/>
+                    </cellValueFactory>
+                </TableColumn>
+
+                <TableColumn prefWidth="${lecturesTable.prefWidth}" text="Date of refer" >
+                    <cellValueFactory>
+                        <PropertyValueFactory property="dateOfRefer"/>
+                    </cellValueFactory>
+                </TableColumn>
+
+            </columns>
+
+            <BorderPane.margin>
+                <Insets right="10.0" />
+            </BorderPane.margin>
+
+        </TableView>
+
+    </center>
+</BorderPane>

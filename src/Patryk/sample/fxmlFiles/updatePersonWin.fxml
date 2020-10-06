@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.DialogPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+
+<DialogPane xmlns:fx="http://javafx.com/fxml" fx:controller="Patryk.sample.fxmlFiles.updateController">
+
+    <headerText>
+       Enter data which you want to change
+    </headerText>
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="Name" GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField fx:id="name" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+            <Label text="Surname" GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextField fx:id="surname" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+            <Label text="Academy title" GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <TextField fx:id="academyTitle" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+            <Label text="Academy ID" GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+            <TextField fx:id="academyID" GridPane.rowIndex="3" GridPane.columnIndex="1"/>
+
+            <Label text="Department ID" GridPane.rowIndex="4" GridPane.columnIndex="0"/>
+            <TextField fx:id="departmentID" GridPane.rowIndex="4" GridPane.columnIndex="1"/>
+
+            <Label text="Phone number" GridPane.rowIndex="5" GridPane.columnIndex="0"/>
+            <TextField fx:id="phoneNumber" GridPane.rowIndex="5" GridPane.columnIndex="1"/>
+
+            <Label text="Email Address" GridPane.rowIndex="6" GridPane.columnIndex="0"/>
+            <TextField fx:id="email" GridPane.rowIndex="6" GridPane.columnIndex="1"/>
+        </GridPane>
+    </content>
+
+</DialogPane>
